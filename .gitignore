@@ -1,0 +1,7 @@
+www/node_modules
+www/node_modules/*
+www/node_modules/dist
+www/node_modules/dist/*
+www/dist
+www/dist/*
+.idea
